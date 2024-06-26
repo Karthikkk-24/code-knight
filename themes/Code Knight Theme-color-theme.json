@@ -1,10 +1,19 @@
 {
 	"name": "Code Knight Theme",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#161616",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#ff8800",
+		"sideBarTitle.foreground": "#ffffff",
+        "tab.activeBackground": "#caf0f8",
+        "tab.inactiveBackground": "#191c1d",
+        "tab.activeForeground": "#000000",
+        "tab.inactiveForeground": "#ffffff",
+        "sideBar.background": "#111212",
+        "sideBar.foreground": "#d4d4d4",
+        "activityBar.background": "#191c1d",
+        "titleBar.activeBackground": "#191c1d",
+    
 	},
 	"tokenColors": [
 		{
@@ -55,7 +64,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#F1B5CB"
 			}
 		},
 		{
@@ -86,7 +95,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#00B4D8"
 			}
 		},
 		{
@@ -99,7 +108,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#fca311"
 			}
 		},
 		{
@@ -108,7 +117,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#B4D4EE"
 			}
 		},
 		{
@@ -149,7 +158,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#CAF0F8"
 			}
 		},
 		{

@@ -3,11 +3,28 @@
   "displayName": "Code Knight",
   "description": "Code Knight Theme!",
   "version": "0.0.1",
+  "publisher": "KarthikShettigar",
   "engines": {
     "vscode": "^1.90.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Karthikkk-24/code-knight.git"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "custom theme",
+    "themes",
+    "codeknight",
+    "code knight",
+    "karthik shettigar",
+    "code knight theme",
+    "codeknight theme",
+    "codeknighttheme"
   ],
   "contributes": {
     "themes": [

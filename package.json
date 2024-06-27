@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "KarthikShettigar",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.50.0"
   },
   "repository": {
     "type": "git",

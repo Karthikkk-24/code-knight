@@ -84,7 +84,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ea92e0"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#fca311"
+				"foreground": "#fdf3ff"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#B4D4EE"
+				"foreground": "#62d0f5"
 			}
 		},
 		{

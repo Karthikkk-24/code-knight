@@ -2,7 +2,7 @@
   "name": "code-knight",
   "displayName": "Code Knight",
   "description": "Code Knight Theme!",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "KarthikShettigar",
   "engines": {
     "vscode": "^1.50.0"

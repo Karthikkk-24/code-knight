@@ -34,7 +34,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#32f1ff"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#fdf3ff"
+				"foreground": "#92c0ff"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff5e53"
 			}
 		},
 		{

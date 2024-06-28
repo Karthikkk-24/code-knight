@@ -1,18 +1,18 @@
 {
 	"name": "Code Knight Theme",
 	"colors": {
-		"editor.background": "#161616",
+		"editor.background": "#1e1f2e",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#ff8800",
 		"sideBarTitle.foreground": "#ffffff",
-        "tab.activeBackground": "#caf0f8",
-        "tab.inactiveBackground": "#191c1d",
-        "tab.activeForeground": "#000000",
+        "tab.activeBackground": "#180303",
+        "tab.inactiveBackground": "#1e1f2e",
+        "tab.activeForeground": "#ffffff",
         "tab.inactiveForeground": "#ffffff",
-        "sideBar.background": "#111212",
+        "sideBar.background": "#1e1f2e",
         "sideBar.foreground": "#d4d4d4",
-        "activityBar.background": "#191c1d",
-        "titleBar.activeBackground": "#191c1d",
+        "activityBar.background": "#1e1f2e",
+        "titleBar.activeBackground": "#1e1f2e",
     
 	},
 	"tokenColors": [
@@ -158,7 +158,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#CAF0F8"
+				"foreground": "#eceef0"
 			}
 		},
 		{

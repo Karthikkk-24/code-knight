@@ -1,18 +1,19 @@
 {
-  "name": "Code Knight Theme",
+  "name": "Code Knight Theme (Charcoal)",
+  "type": "dark",
   "colors": {
-    "editor.background": "#1e1f2e",
+    "editor.background": "#333333",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#ff8800",
     "sideBarTitle.foreground": "#ffffff",
-    "tab.activeBackground": "#180303",
-    "tab.inactiveBackground": "#1e1f2e",
+    "tab.activeBackground": "#1a1a1a",
+    "tab.inactiveBackground": "#333333",
     "tab.activeForeground": "#ffffff",
     "tab.inactiveForeground": "#ffffff",
-    "sideBar.background": "#1e1f2e",
+    "sideBar.background": "#333333",
     "sideBar.foreground": "#d4d4d4",
-    "activityBar.background": "#1e1f2e",
-    "titleBar.activeBackground": "#1e1f2e"
+    "activityBar.background": "#333333",
+    "titleBar.activeBackground": "#333333"
   },
   "tokenColors": [
     {

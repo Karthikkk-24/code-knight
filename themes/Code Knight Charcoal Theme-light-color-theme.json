@@ -4,16 +4,31 @@
     "editor.background": "#1C1C1E",
     "editor.foreground": "#E2E8F0",
     "activityBarBadge.background": "#3B82F6",
-    "sideBarTitle.foreground": "#ffffff",
-    "tab.activeBackground": "#151517",
-    "tab.inactiveBackground": "#1C1C1E",
-    "tab.activeForeground": "#ffffff",
+    "sideBarTitle.foreground": "#E2E8F0",
+
+    // Title bar colors
+    "titleBar.activeBackground": "#1C1C1E",
+    "titleBar.inactiveBackground": "#1C1C1E",
+    "titleBar.activeForeground": "#E2E8F0",
+    "titleBar.inactiveForeground": "#64748B",
+
+    // Tab colors
+    "tab.activeBackground": "#3B82F6",
+    "tab.inactiveBackground": "#232326",
+    "tab.activeForeground": "#FFFFFF",
     "tab.inactiveForeground": "#94A3B8",
+    "tab.hoverBackground": "#2563EB",
+    "tab.unfocusedHoverBackground": "#2563EB",
+    "tab.border": "#1C1C1E",
+    "tab.activeBorder": "#3B82F6",
+
+    // Other UI elements
     "sideBar.background": "#1C1C1E",
     "sideBar.foreground": "#E2E8F0",
     "activityBar.background": "#1C1C1E",
-    "titleBar.activeBackground": "#1C1C1E"
+    "editorGroupHeader.tabsBackground": "#1C1C1E"
   },
+  // Rest of the token colors remain the same
   "tokenColors": [
     {
       "name": "Comment",

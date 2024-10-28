@@ -35,7 +35,7 @@
       },
       {
         "label": "Code Knight Theme (Charcoal)",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Code Knight Charcoal Theme-light-color-theme.json"
       }
     ]

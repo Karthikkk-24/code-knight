@@ -1,34 +1,19 @@
 {
     "name": "Charcoal Blue Theme",
     "colors": {
-        "editor.background": "#1C1C1E",
-        "editor.foreground": "#E2E8F0",
-        "activityBarBadge.background": "#004FFF",
-        "sideBarTitle.foreground": "#E2E8F0",
-
-        // Title bar colors
-        "titleBar.activeBackground": "#1C1C1E",
-        "titleBar.inactiveBackground": "#1C1C1E",
-        "titleBar.activeForeground": "#E2E8F0",
-        "titleBar.inactiveForeground": "#64748B",
-
-        // Tab colors
-        "tab.activeBackground": "#004FFF",
-        "tab.inactiveBackground": "#232326",
-        "tab.activeForeground": "#FFFFFF",
-        "tab.inactiveForeground": "#94A3B8",
-        "tab.hoverBackground": "#2563EB",
-        "tab.unfocusedHoverBackground": "#2563EB",
-        "tab.border": "#1C1C1E",
-        "tab.activeBorder": "#004FFF",
-
-        // Other UI elements
-        "sideBar.background": "#1C1C1E",
-        "sideBar.foreground": "#E2E8F0",
-        "activityBar.background": "#1C1C1E",
-        "editorGroupHeader.tabsBackground": "#1C1C1E"
+        "editor.background": "#1c1c1c",
+        "editor.foreground": "#eeffff",
+        "activityBarBadge.background": "#3b82f6",
+        "sideBarTitle.foreground": "#ffffff",
+        "tab.activeBackground": "#180303",
+        "tab.inactiveBackground": "#1c1c1c",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveForeground": "#ffffff",
+        "sideBar.background": "#1c1c1c",
+        "sideBar.foreground": "#d4d4d4",
+        "activityBar.background": "#1c1c1c",
+        "titleBar.activeBackground": "#1c1c1c"
     },
-    // Rest of the token colors remain the same
     "tokenColors": [
         {
             "name": "Comment",
@@ -478,7 +463,7 @@
             "scope": ["markup.underline"],
             "settings": {
                 "fontStyle": "underline",
-                "foreground": "#F78C6C"
+                "foreground": "#3b82f6"
             }
         },
         {
@@ -515,7 +500,7 @@
             "name": "Markdown - Link Anchor",
             "scope": ["constant.other.reference.link.markdown"],
             "settings": {
-                "foreground": "#FFCB6B"
+                "foreground": "#4f95ff"
             }
         },
         {

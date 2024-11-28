@@ -1,7 +1,7 @@
 {
     "name": "Code Knight Theme",
     "colors": {
-        "editor.background": "#080808",
+        "editor.background": "#1e1e1e",
         "editor.foreground": "#eeffff",
         "activityBarBadge.background": "#ff0000",
         "sideBarTitle.foreground": "#ffffff",
@@ -9,10 +9,10 @@
         "tab.inactiveBackground": "#4b4b4b",
         "tab.activeForeground": "#ffffff",
         "tab.inactiveForeground": "#ffffff",
-        "sideBar.background": "#080808",
+        "sideBar.background": "#1e1e1e",
         "sideBar.foreground": "#d4d4d4",
-        "activityBar.background": "#080808",
-        "titleBar.activeBackground": "#080808"
+        "activityBar.background": "#1e1e1e",
+        "titleBar.activeBackground": "#1e1e1e"
     },
     "tokenColors": [
         {

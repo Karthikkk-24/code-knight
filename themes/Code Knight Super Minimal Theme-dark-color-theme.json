@@ -20,7 +20,7 @@
             "scope": ["comment", "punctuation.definition.comment"],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#6c6c6c"
+                "foreground": "#5c5c5c"
             }
         },
         {
@@ -41,14 +41,14 @@
             "name": "Invalid",
             "scope": ["invalid", "invalid.illegal"],
             "settings": {
-                "foreground": "#b0b0b0"
+                "foreground": "#8c8c8c"
             }
         },
         {
             "name": "Keyword, Storage",
             "scope": ["keyword", "storage.type", "storage.modifier"],
             "settings": {
-                "foreground": "#c0c0c0"
+                "foreground": "#b0b0b0"
             }
         },
         {
@@ -92,21 +92,21 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#b0b0b0"
+                "foreground": "#c8c8c8"
             }
         },
         {
             "name": "Block Level Variables",
             "scope": ["meta.block variable.other"],
             "settings": {
-                "foreground": "#a0a0a0"
+                "foreground": "#9c9c9c"
             }
         },
         {
             "name": "Other Variable, String Link",
             "scope": ["support.other.variable", "string.other.link"],
             "settings": {
-                "foreground": "#909090"
+                "foreground": "#888888"
             }
         },
         {
@@ -122,7 +122,7 @@
                 "keyword.other"
             ],
             "settings": {
-                "foreground": "#c0c0c0"
+                "foreground": "#acacac"
             }
         },
         {
@@ -137,7 +137,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#a0a0a0"
+                "foreground": "#959595"
             }
         },
         {
@@ -153,14 +153,14 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#b0b0b0"
+                "foreground": "#bababa"
             }
         },
         {
             "name": "Entity Types",
             "scope": ["support.type"],
             "settings": {
-                "foreground": "#a0a0a0"
+                "foreground": "#a5a5a5"
             }
         },
         {
@@ -181,7 +181,7 @@
             "name": "Attributes",
             "scope": ["entity.other.attribute-name"],
             "settings": {
-                "foreground": "#b0b0b0"
+                "foreground": "#b5b5b5"
             }
         },
         {

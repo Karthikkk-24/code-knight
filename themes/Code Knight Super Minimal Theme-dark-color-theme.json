@@ -83,7 +83,7 @@
             }
         },
         {
-            "name": "Function, Special Method",
+            "name": "Function",
             "scope": [
                 "entity.name.function",
                 "meta.function-call",
@@ -92,7 +92,14 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#c8c8c8"
+                "foreground": "#c0c0c0" // Lighter shade for functions
+            }
+        },
+        {
+            "name": "Function Parameters",
+            "scope": ["variable.parameter"],
+            "settings": {
+                "foreground": "#b0b0b0" // Slightly darker shade for parameters
             }
         },
         {
